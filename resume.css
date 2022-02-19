@@ -6,6 +6,8 @@ body {
 
 h1 {
     padding: 5px;
+    background-color: #056aae;
+    color: white;
     font-size: 50px;
 }
 

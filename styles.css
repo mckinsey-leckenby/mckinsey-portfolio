@@ -103,7 +103,7 @@
     color: white
   }
 
-  header .profile-image {
+  header .profile-image{
     margin-top: 50px;
     width: 150px;
     height: 150px;
@@ -112,6 +112,8 @@
     transition: all .5s;
     display: inline-block;
   }
+
+  
   header .profile-image:hover {
     transform: scale(1.2) rotate(360deg);
   }
